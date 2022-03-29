@@ -19,8 +19,8 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
-    "components/Home/Sidebar.js",
-    "components/Home/SideNavList.js"
+    "components/Home/Sidebar.tsx",
+    "components/Home/SideNavList.tsx"
   ],
   "exclude": ["node_modules"]
 }
